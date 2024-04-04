@@ -1,0 +1,23 @@
+[{"set": "automa", "name":"card01", "id":"card01", "rank":"1"}
+,{"set": "automa", "name":"card02", "id":"card02", "rank":"1"}
+,{"set": "automa", "name":"card03", "id":"card03", "rank":"1"}
+,{"set": "automa", "name":"card04", "id":"card04", "rank":"1"}
+,{"set": "automa", "name":"card05", "id":"card05", "rank":"1"}
+,{"set": "automa", "name":"card06", "id":"card06", "rank":"1"}
+,{"set": "automa", "name":"card07", "id":"card07", "rank":"1"}
+,{"set": "automa", "name":"card08", "id":"card08", "rank":"1"}
+,{"set": "automa", "name":"card09", "id":"card09", "rank":"1"}
+,{"set": "automa", "name":"card10", "id":"card10", "rank":"1"}
+,{"set": "automa", "name":"Automubon Society", "id":"card11", "rank":"2"}
+,{"set": "automa", "name":"RAOUtoma", "id":"card12", "rank":"3"}
+,{"set": "tracker", "name":"Round 1", "id":"r1", "rank":"4"}
+,{"set": "tracker", "name":"Round 2", "id":"r2", "rank":"4"}
+,{"set": "tracker", "name":"Round 3", "id":"r3", "rank":"4"}
+,{"set": "tracker", "name":"Round 4", "id":"r4", "rank":"4"}
+,{"set": "scoring", "name":"Round 1 Starting Points", "id":"sr1", "rank":"5"}
+,{"set": "scoring", "name":"Round 2 Starting Points", "id":"sr2", "rank":"5"}
+,{"set": "scoring", "name":"Round 3 Starting Points", "id":"sr3", "rank":"5"}
+,{"set": "scoring", "name":"Round 4 Starting Points", "id":"sr4 ", "rank":"5"}
+,{"set": "legend", "name":"Legend 1", "id":"legend1", "rank":"6"}
+,{"set": "legend", "name":"Legend 2", "id":"legend2", "rank":"6"}
+]
