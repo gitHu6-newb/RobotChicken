@@ -20,4 +20,8 @@
 ,{"set": "scoring", "name":"Round 4 Starting Points", "id":"sr4 ", "rank":"5"}
 ,{"set": "legend", "name":"Legend 1", "id":"legend1", "rank":"6"}
 ,{"set": "legend", "name":"Legend 2", "id":"legend2", "rank":"6"}
+,{"set":"abc","name":"Avid Avian Admirer", "id":"abc1", "rank":"7"}
+,{"set":"abc","name":"Autwitcher", "id":"abc2", "rank":"7"}
+,{"set":"abc","name":"RASPB Life Fellow", "id":"abc3", "rank":"7"}
+,{"set":"abc","name":"Rare Species Lister", "id":"abc4", "rank":"7"}
 ]
