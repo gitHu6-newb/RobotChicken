@@ -2,10 +2,16 @@
 {
   "allCardsUrl": "https://raw.githubusercontent.com/gitHu6-newb/RobotChicken/main/AllCards.json",
   "allSetsUrl": "https://raw.githubusercontent.com/gitHu6-newb/RobotChicken/main/AllSets.json",
-  "autoUpdateUrl": "https://raw.githubusercontent.com/gitHu6-newb/RobotChicken/main/Standard.json",
+  "autoUpdateUrl": "https://raw.githubusercontent.com/gitHu6-newb/RobotChicken/main/WingspanAutoma.json",
   "bannerImageUrl": "https://raw.githubusercontent.com/gitHu6-newb/RobotChicken/main/Banner.png",
   "cardBackImageUrl": "https://raw.githubusercontent.com/gitHu6-newb/RobotChicken/main/CardBack.png",
+  "cardImageFileType": "jpg",
   "cardImageUrl": "https://raw.githubusercontent.com/gitHu6-newb/RobotChicken/main/sets/{cardSet}/{cardId}.{cardImageFileType}",
+  "cardDataIdentifier": "items",
+  "cardIdIdentifier": "guid",
+  "cardSetIdentifier": "serie",
+  "cardSetIsObject": true,
+  "cardPrimaryProperty": "ruleText",
   "cardProperties": [
     {
       "name": "rank",
