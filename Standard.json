@@ -1,49 +1,40 @@
 
 {
-  "allCardsUrl": "https://github.com/gitHu6-newb/RobotChicken/blob/main/AllCards.json",
-  "allSetsUrl": "https://github.com/gitHu6-newb/RobotChicken/blob/main/AllSets.json",
-  "autoUpdateUrl": "https://github.com/gitHu6-newb/RobotChicken/blob/main/Standard.json",
-  "bannerImageUrl": "https://github.com/gitHu6-newb/RobotChicken/blob/main/Banner.png",
-  "cardBackImageUrl": "https://github.com/gitHu6-newb/RobotChicken/blob/main/CardBack.png",
-  "cardImageUrl": "https://github.com/gitHu6-newb/RobotChicken/blob/main/sets/{cardSet}/{cardId}.{cardImageFileType}",
+  "allCardsUrl": "https://raw.githubusercontent.com/gitHu6-newb/RobotChicken/main/AllCards.json",
+  "allSetsUrl": "https://raw.githubusercontent.com/gitHu6-newb/RobotChicken/main/AllSets.json",
+  "autoUpdateUrl": "https://raw.githubusercontent.com/gitHu6-newb/RobotChicken/main/Standard.json",
+  "bannerImageUrl": "https://raw.githubusercontent.com/gitHu6-newb/RobotChicken/main/Banner.png",
+  "cardBackImageUrl": "https://raw.githubusercontent.com/gitHu6-newb/RobotChicken/main/CardBack.png",
+  "cardImageUrl": "https://raw.githubusercontent.com/gitHu6-newb/RobotChicken/main/sets/{cardSet}/{cardId}.{cardImageFileType}",
   "cardProperties": [
     {
       "name": "rank",
 
       "type": "stringEnum"
-    },
-    {
-      "name": "suit",
-
-      "type": "stringEnum"
-    },
-    {
-      "name": "color",
-      
-      "type": "stringEnum"
     }
+    
   ],
   "cgsGamesLink": "https://cgs.games/link/standard",
   "deckUrls": [
     {
       "name": "Round 1 with Automubon Society",
-      "url": "https://github.com/gitHu6-newb/RobotChicken/blob/main/decks/Round%201%20with%20Automubon%20Society.txt"
+      "url": "https://raw.githubusercontent.com/gitHu6-newb/RobotChicken/main/decks/Round%201%20with%20Automubon%20Society.txt"
     },
     {
       "name": "Round 2 with Automubon Society",
-      "url": "https://github.com/gitHu6-newb/RobotChicken/blob/main/decks/Round%202%20with%20Automubon%20Society.txt"
+      "url": "https://raw.githubusercontent.com/gitHu6-newb/RobotChicken/main/decks/Round%202%20with%20Automubon%20Society.txt"
     },
     {
       "name": "Round 3 with Automubon Society",
-      "url": "https://github.com/gitHu6-newb/RobotChicken/blob/main/decks/Round%203%20with%20Automubon%20Society.txt"
+      "url": "https://raw.githubusercontent.com/gitHu6-newb/RobotChicken/main/decks/Round%203%20with%20Automubon%20Society.txt"
     },
     {
       "name": "Round 4 with Automubon Society",
-      "url": "https://github.com/gitHu6-newb/RobotChicken/blob/main/decks/Round%204%20with%20Automubon%20Society.txt"
+      "url": "https://raw.githubusercontent.com/gitHu6-newb/RobotChicken/main/decks/Round%204%20with%20Automubon%20Society.txt"
     },
     {
       "name": "Automa-Only Bonus Cards",
-      "url": "https://github.com/gitHu6-newb/RobotChicken/blob/main/decks/Automa-Only%20Bonus%20Cards.txt"
+      "url": "https://raw.githubusercontent.com/gitHu6-newb/RobotChicken/main/decks/Automa-Only%20Bonus%20Cards.txt"
     }
   ],
   "enums": [
