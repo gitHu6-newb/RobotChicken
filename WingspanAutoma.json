@@ -15,7 +15,7 @@
   "cardProperties": [
     {
       "name": "rank",
-
+      "display":"rank",
       "type": "stringEnum"
     }
     
