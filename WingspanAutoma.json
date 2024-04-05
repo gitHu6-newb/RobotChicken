@@ -68,6 +68,7 @@
     {
       "property": "rank",
       "values": {
+        "0": "Setmeup",
         "1": "Action Cards",
         "2": "Automubon Society Card",
         "3": "RAOUToma Card",
@@ -82,6 +83,15 @@
 
     
   ],
+
+  "extras": [
+    {
+      "group": "Setmeup",
+      "property": "rank",
+      "value": "Setmeup"
+    }
+  ],
+  
   "gameDefaultCardAction": "flip",
   "copyright":"Elizabeth Hargrave & Stonemaier Games",
   "gamePlayDeckName": "RobotChicken",
