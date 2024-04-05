@@ -15,7 +15,7 @@
     "y": 6
   },
  
-  "cardPrimaryProperty": "ruleText",
+  "cardPrimaryProperty": "rank",
   "cardProperties": [
     {
       "name": "rank",
