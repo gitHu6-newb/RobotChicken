@@ -8,7 +8,7 @@
   "cardImageFileType": "jpg",
   "cardImageUrl": "https://raw.githubusercontent.com/gitHu6-newb/RobotChicken/main/sets/{cardSet}/{cardId}.jpg",
   "GameBoardCard": {
-    "alreadyout": "legend1, legend2, sr1, r1"
+    "alreadyout": ["legend1", "legend2", "sr1", "r1"]
   },
  
 
@@ -82,7 +82,7 @@
   "gameDefaultCardAction": "flip",
   "copyright":"Elizabeth Hargrave & Stonemaier Games",
   "gamePlayDeckName": "RobotChicken",
-  "gameStartHandCount": 10,
+  "gameStartHandCount": 6,
   "name": "Wingspan Automa with Automubon Society",
   "rulesUrl": "https://stonemaiergames.com/games/wingspan/rules/"
 }
