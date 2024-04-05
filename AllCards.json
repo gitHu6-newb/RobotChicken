@@ -17,7 +17,7 @@
 ,{"set": "scoring", "name":"Round 1 Starting Points", "id":"sr1", "rank":"5"}
 ,{"set": "scoring", "name":"Round 2 Starting Points", "id":"sr2", "rank":"5"}
 ,{"set": "scoring", "name":"Round 3 Starting Points", "id":"sr3", "rank":"5"}
-,{"set": "scoring", "name":"Round 4 Starting Points", "id":"sr4 ", "rank":"5"}
+,{"set": "scoring", "name":"Round 4 Starting Points", "id":"sr4", "rank":"5"}
 ,{"set": "legend", "name":"Legend 1", "id":"legend1", "rank":"6"}
 ,{"set": "legend", "name":"Legend 2", "id":"legend2", "rank":"6"}
 ,{"set":"abc","name":"Avid Avian Admirer", "id":"abc1", "rank":"7"}
