@@ -92,8 +92,8 @@
     }
   ],
   
-  "gameBoardImageFileType": "jpg",
-  "gameBoardUrls": "https://raw.githubusercontent.com/gitHu6-newb/RobotChicken/main/Gamemat.jpg",
+  "playMatImageFileType": "jpg",
+  "playMatImageUrl": "https://raw.githubusercontent.com/gitHu6-newb/RobotChicken/main/Gamemat.jpg",
   "gameDefaultCardAction": "flip",
   "copyright":"Elizabeth Hargrave & Stonemaier Games",
   "gamePlayDeckName": "RobotChicken",
