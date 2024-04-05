@@ -7,8 +7,11 @@
   "cardBackImageUrl": "https://raw.githubusercontent.com/gitHu6-newb/RobotChicken/main/CardBack.png",
   "cardImageFileType": "jpg",
   "cardImageUrl": "https://raw.githubusercontent.com/gitHu6-newb/RobotChicken/main/sets/{cardSet}/{cardId}.jpg",
-  "GameBoardCards": {
-    "whipout":["legend1","legend2","sr1","r1"]
+  "GameBoardCard": {
+    "whipout1":"legend1",
+    "whipout2":"legend2",
+    "whipout3":"sr1",
+    "whipout4":"r1"
   },
 
   
