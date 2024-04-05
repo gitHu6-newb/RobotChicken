@@ -14,12 +14,12 @@
 ,{"set": "tracker", "name":"Round 2", "id":"r2", "rank":"4"}
 ,{"set": "tracker", "name":"Round 3", "id":"r3", "rank":"4"}
 ,{"set": "tracker", "name":"Round 4", "id":"r4", "rank":"4"}
-,{"set": "scoring", "name":"Round 1 Starting Points", "id":"sr1", "rank":"5", "extradef":"extras"}
+,{"set": "scoring", "name":"Round 1 Starting Points", "id":"sr1", "rank":"Setmeup"}
 ,{"set": "scoring", "name":"Round 2 Starting Points", "id":"sr2", "rank":"5"}
 ,{"set": "scoring", "name":"Round 3 Starting Points", "id":"sr3", "rank":"5"}
 ,{"set": "scoring", "name":"Round 4 Starting Points", "id":"sr4", "rank":"5"}
-,{"set": "legend", "name":"Legend 1", "id":"legend1", "rank":"6", "extradef":"extras"}
-,{"set": "legend", "name":"Legend 2", "id":"legend2", "rank":"6", "extradef":"extras"}
+,{"set": "legend", "name":"Legend 1", "id":"legend1", "rank":"Setmeup"}
+,{"set": "legend", "name":"Legend 2", "id":"legend2", "rank":"Setmeup"}
 ,{"set":"abc","name":"Avid Avian Admirer", "id":"abc1", "rank":"7"}
 ,{"set":"abc","name":"Autwitcher", "id":"abc2", "rank":"7"}
 ,{"set":"abc","name":"RASPB Life Fellow", "id":"abc3", "rank":"7"}
