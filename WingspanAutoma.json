@@ -6,15 +6,15 @@
   "bannerImageUrl": "https://raw.githubusercontent.com/gitHu6-newb/RobotChicken/main/Banner.png",
   "cardBackImageUrl": "https://raw.githubusercontent.com/gitHu6-newb/RobotChicken/main/CardBack.png",
   "cardImageFileType": "jpg",
-  "cardImageUrl": "https://raw.githubusercontent.com/gitHu6-newb/RobotChicken/main/sets/{cardSet}/{cardId}.{cardImageFileType}",
-  "cardDataIdentifier": "items",
+  "cardImageUrl": "https://raw.githubusercontent.com/gitHu6-newb/RobotChicken/main/sets/{cardSet}/{cardId}.jpg",
+ 
  
 
   "cardSize": {
     "x": 4,
     "y": 6
   },
-  "cardSetIsObject": true,
+ 
   "cardPrimaryProperty": "ruleText",
   "cardProperties": [
     {
