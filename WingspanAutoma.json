@@ -41,6 +41,18 @@
     {
       "name": "Automa-Only Bonus Cards",
       "url": "https://raw.githubusercontent.com/gitHu6-newb/RobotChicken/main/decks/Automa-Only%20Bonus%20Cards.txt"
+    },
+    {
+      "name": "Round Tracking Cards (optional)",
+      "url": "https://raw.githubusercontent.com/gitHu6-newb/RobotChicken/main/decks/RoundTracker.txt"
+    },
+    {
+      "name": "Round Scoring Cards",
+      "url": "https://raw.githubusercontent.com/gitHu6-newb/RobotChicken/main/decks/RoundScoring.txt"
+    },
+    {
+      "name": "Legend (optional)",
+      "url": "https://raw.githubusercontent.com/gitHu6-newb/RobotChicken/main/decks/Legend.txt"
     }
   ],
   "enums": [
