@@ -9,18 +9,22 @@
   "cardImageUrl": "https://raw.githubusercontent.com/gitHu6-newb/RobotChicken/main/sets/{cardSet}/{cardId}.{cardImageFileType}",
   "cardDataIdentifier": "items",
  
- 
+
+  "cardSize": {
+    "x": 4,
+    "y": 6
+  },
   "cardSetIsObject": true,
   "cardPrimaryProperty": "ruleText",
   "cardProperties": [
     {
       "name": "rank",
-      "display":"rank",
+      "display":"Rank",
       "type": "stringEnum"
     }
     
   ],
-  "cgsGamesLink": "https://cgs.games/link/wingspan_automa_with_automubon_society",
+  "cgsGamesLink": "https://cgs.games/mystiken/wingspan_automa_with_automubon_society",
   "deckUrls": [
     {
       "name": "Round 1 with Automubon Society",
