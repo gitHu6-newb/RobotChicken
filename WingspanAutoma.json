@@ -94,6 +94,10 @@
   
   "playMatImageFileType": "jpg",
   "playMatImageUrl": "https://raw.githubusercontent.com/gitHu6-newb/RobotChicken/main/Gamemat.jpg",
+  "playMatGridCellSize": {
+    "x": 0.25,
+    "y": 0.25
+  },
   "gameDefaultCardAction": "flip",
   "copyright":"Elizabeth Hargrave & Stonemaier Games",
   "gamePlayDeckName": "RobotChicken",
