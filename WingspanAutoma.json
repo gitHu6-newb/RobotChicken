@@ -77,6 +77,8 @@
 
     
   ],
+  "gameDefaultCardAction": "flip",
+  "copyright":"Elizabeth Hargrave & Stonemaier Games",
   "gamePlayDeckName": "RobotChicken",
   "gameStartHandCount": 0,
   "name": "Wingspan Automa with Automubon Society",
