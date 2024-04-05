@@ -9,7 +9,7 @@
   "cardImageUrl": "https://raw.githubusercontent.com/gitHu6-newb/RobotChicken/main/sets/{cardSet}/{cardId}.{cardImageFileType}",
   "cardDataIdentifier": "items",
   "cardIdIdentifier": "guid",
-  "cardSetIdentifier": "serie",
+ 
   "cardSetIsObject": true,
   "cardPrimaryProperty": "ruleText",
   "cardProperties": [
