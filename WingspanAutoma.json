@@ -52,14 +52,6 @@
       "url": "https://raw.githubusercontent.com/gitHu6-newb/RobotChicken/main/decks/Automa-Only%20Bonus%20Cards.txt"
     },
     {
-      "name": "Round Tracking Cards (optional)",
-      "url": "https://raw.githubusercontent.com/gitHu6-newb/RobotChicken/main/decks/RoundTracker.txt"
-    },
-    {
-      "name": "Round Scoring Cards",
-      "url": "https://raw.githubusercontent.com/gitHu6-newb/RobotChicken/main/decks/RoundScoring.txt"
-    },
-    {
       "name": "Legend (optional)",
       "url": "https://raw.githubusercontent.com/gitHu6-newb/RobotChicken/main/decks/Legend.txt"
     }
@@ -101,7 +93,7 @@
   "gameDefaultCardAction": "flip",
   "copyright":"Elizabeth Hargrave & Stonemaier Games",
   "gamePlayDeckName": "RobotChicken",
-  "gameStartHandCount": 1,
+  "gameStartHandCount": 6,
   "name": "Wingspan Automa with Automubon Society",
   "rulesUrl": "https://stonemaiergames.com/games/wingspan/rules/"
 }
