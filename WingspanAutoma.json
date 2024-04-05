@@ -20,7 +20,7 @@
     "y": 6
   },
  
-  "cardPrimaryProperty": "rank",
+  "cardPrimaryProperty": "set",
   "cardProperties": [
     {
       "name": "rank",
