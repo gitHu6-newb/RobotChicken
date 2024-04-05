@@ -8,17 +8,13 @@
   "cardImageFileType": "jpg",
   "cardImageUrl": "https://raw.githubusercontent.com/gitHu6-newb/RobotChicken/main/sets/{cardSet}/{cardId}.jpg",
   "GameBoardCard": {
-    "whipout1":"legend1",
+    "card":"legend1",
     "whipout2":"legend2",
     "whipout3":"sr1",
     "whipout4":"r1"
   },
 
-  
-  "cardSize": {
-    "x": 4,
-    "y": 6
-  },
+ 
  
   "cardPrimaryProperty": "set",
   "cardProperties": [
@@ -28,7 +24,11 @@
       "type": "stringEnum"
     }
     
-  ],
+  ], 
+  "cardSize": {
+    "x": 4,
+    "y": 6
+  },
   "cgsGamesLink": "https://cgs.games/mystiken/wingspan_automa_with_automubon_society",
   "deckUrls": [
     {
