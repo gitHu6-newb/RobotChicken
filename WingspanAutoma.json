@@ -94,6 +94,9 @@
     "x": 0.1,
     "y": 0.1
   },
+  "GamePlayZone": {
+    "face": "up"
+  },
   "gameDefaultCardAction": "flip",
   "copyright":"Elizabeth Hargrave & Stonemaier Games",
   "gamePlayDeckName": "RobotChicken",
