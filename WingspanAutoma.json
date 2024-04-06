@@ -32,6 +32,10 @@
   "cgsGamesLink": "https://cgs.games/mystiken/wingspan_automa_with_automubon_society",
   "deckUrls": [
     {
+      "name": "SETUP",
+      "url": "https://raw.githubusercontent.com/gitHu6-newb/RobotChicken/main/decks/SETUP.txt"
+    },
+    {
       "name": "Round 1 with Automubon Society",
       "url": "https://raw.githubusercontent.com/gitHu6-newb/RobotChicken/main/decks/Round%201%20with%20Automubon%20Society.txt"
     },
