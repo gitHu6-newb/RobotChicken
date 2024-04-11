@@ -10,6 +10,7 @@ Digital method for me personally playing the Automa base(ish) game.
     - Base Game: Cartographer, Historian
     - Oceania: the consecutive wingspan types, Site Selection Expert
     - Asia: I kept only The Winter Feeder
+  - Cards Not for the Automa are marked in their lower left with a red prohibitive symbol
 
 ## 3. Load the Round 1 deck, and Don't deal to your hand (click the 'X').
   - (the other rounds have the appropriate card(s) already removed but it's just as easy to do it manually, too)
