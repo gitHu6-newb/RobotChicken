@@ -3,6 +3,7 @@ Digital method for me personally playing the Automa base(ish) game.
 ## 1. Load the -=SETUP=- deck, dealing 6 cards to your hand. 
  - (known issue- on desktop browser version, it's not segregating the 4 cards correctly to leave on the playmat, so the next step is to go hunting for the right cards)
  - Flip the 4 cards to place them over their outlines (or wherever you want).
+ - Play using the Automa's Cache card, or discard it.
 
 ## 2. Load 1 of the Bonus Card decks, and Don't deal to your hand (click the 'X').
   - Automa-only has just the 4 special cards for Automa
