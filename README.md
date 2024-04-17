@@ -8,7 +8,7 @@ Digital method for me personally playing the Automa base(ish) game.
 ## 2. Load 1 of the Bonus Card decks, and Don't deal to your hand (click the 'X').
   - Automa-only has just the 4 special cards for Automa
   - The other bonus deck has nearly all bonus cards, minus some personally disliked cards:
-    - Base Game: Cartographer, Historian
+    - Base Game: Breeding Manager, Historian
     - Oceania: the consecutive wingspan types, Site Selection Expert
     - Asia: I kept only The Winter Feeder
   - Cards Not for the Automa are marked in their lower left with a red prohibitive symbol
