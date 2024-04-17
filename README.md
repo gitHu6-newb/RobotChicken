@@ -10,7 +10,7 @@ Digital method for me personally playing the Automa base(ish) game.
   - The other bonus deck has nearly all bonus cards, minus some personally disliked cards:
     - Base Game: Breeding Manager, Historian
     - Oceania: the consecutive wingspan types, Site Selection Expert
-    - Asia: I kept only The Winter Feeder
+    - Asia: I kept Small Clutch, Endangered Species, and Winter Feeder
   - Cards Not for the Automa are marked in their lower left with a red prohibitive symbol
 
 ## 3. Load the Round 1 deck, and Don't deal to your hand (click the 'X').
