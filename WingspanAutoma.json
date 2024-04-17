@@ -9,6 +9,7 @@
   "cardImageUrl": "https://raw.githubusercontent.com/gitHu6-newb/RobotChicken/main/sets/{cardSet}/{cardId}.jpg",
   "GameBoardCard": {
     "card":"legend1",
+    "whipout1":"Automa's Cache",
     "whipout2":"legend2",
     "whipout3":"sr1",
     "whipout4":"r1"
